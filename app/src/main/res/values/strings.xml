@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">phoneconfig</string>
+
+    <string name="app_name">휴대폰 정보</string>
+    <string name="phone_number">전화번호</string>
+    <string name="device_id">디바이스 ID</string>
+    <string name="os_version">OS 버전</string>
+
 </resources>
